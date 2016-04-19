@@ -6,7 +6,7 @@
   "dependencies": {
     "bluebird": "^3.1.1",
     "gulp-util": "^3.0.7",
-    "jspm": "^0.16.23",
+    "jspm": "^0.17.0-beta.4",
     "liftoff": "^2.2.0",
     "mini-assert": "^1.0.7",
     "temp": "^0.8.3",
